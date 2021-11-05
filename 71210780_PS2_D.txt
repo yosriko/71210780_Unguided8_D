@@ -1,0 +1,10 @@
+Gelas yang akan terisi air terlebih dahulu
+adalah gelas bernomor dua.
+Karena pada wadah utama, dimana air 
+pertama kali di tuangkan, rongga yang 
+memiliki posisi paling bawah mengarah 
+ke wadah sebelah kiri yang terhubung
+dengan gelas 1,2, dan 3. 
+Karena rongga yang mengarah ke gelas nomor 2
+adalah yang berposisi paling bawah, maka gelas
+nomor dua akan terisi terlebih dahulu.
