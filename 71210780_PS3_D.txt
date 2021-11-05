@@ -1,0 +1,8 @@
+Read number
+Fact = 1
+i = 1
+WHILE i<=number
+    Fact=Fact*i
+    i=i+1
+ENDWHILE
+WRITE Fact
